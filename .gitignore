@@ -27,7 +27,6 @@ playwright/.cache/
 
 # Data files
 data/
-*.json
 
 # Logs
 logs/
